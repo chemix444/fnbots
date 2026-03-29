@@ -1,0 +1,2 @@
+# fnbots
+static site
